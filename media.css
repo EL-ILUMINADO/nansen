@@ -1,0 +1,615 @@
+@media only screen and (max-width: 1300px){
+    .hero-section {
+        padding-right: 2rem;
+    }
+    .hero-title p{
+        font-size: 37px;
+    }
+    .hero-title button {
+        padding: 20px 30px;
+    }
+    .sect-3-benefits{
+        display: flex;
+        flex-direction: column;
+    }
+    .benefits-text div {
+        width: 60%;
+    }
+    .benefits-text h4 {
+        font-size: 50px;
+    }
+    .benefits-text p {
+        font-size: 30px;
+    }
+    .section-3 h2 {
+        font-size: 70px;
+    }
+}
+
+@media only screen and (max-width:1200px){
+    .navbar .links, .navbar .action-btn-1, .navbar .action-btn-2 {
+        display: none;
+    }
+    .navbar .toggle-btn {
+        display: block;
+        color: white;
+    }
+    .dropdown {
+        display: block;
+    }
+    .hero-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .hero-title {
+        margin-bottom: 60px;
+    }
+}
+
+@media only screen and (max-width: 1050px){
+    .hero-section {
+        padding-right: 2rem;
+    }
+    .hero-title button {
+        padding: 34px 80px;
+    }
+    .hero-title-2 {
+        width: 100%;
+    }
+    .hero-title-2-header {
+        font-size: 33px;
+    }
+    .hero-title-2 h3 {
+        font-size: 43px;
+    }
+    .hero-title-2-text {
+        font-size: 33px;
+    }
+    .section-2 {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+    .sect-2-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .section-3 h2 {
+        font-size: 56px;
+        margin-top: 60px;
+    }
+    .sect-3-benefits {
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .benefits-text div {
+        width: 75%;
+    }
+    .benefits-text h4 {
+        font-size: 50px;
+    }
+    .benefits-text p {
+        font-size: 20px;
+    }
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-list {
+        margin-bottom: 40px;
+    }
+    .footer-list h5 {
+        font-size: 55px;
+    }
+    .footer-list ul li a {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 835px){
+    .hero-section {
+        padding: 20px 1.2rem;
+    }
+    .hero-title button {
+        padding: 20px 64px;
+    }
+    .hero-title p {
+        font-size: 37px;
+    }
+    .hero-title-2 {
+        width: 100%;
+    }
+    .hero-title-2-header {
+        font-size: 20px;
+    }
+    .hero-title-2 h3 {
+        font-size: 35px;
+    }
+    .hero-title-2-text {
+        font-size: 20px;
+    }
+    .sect-2-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .section-3 h3 {
+        font-size: 46px;
+    }
+    .section-3 h2 {
+        font-size: 46px;
+        margin-top: 60px;
+    }
+    .sect-3-benefits{
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .benefits-text h4 {
+        font-size: 35px;
+    }
+    .section-3-btn .hero-btn-1, .hero-btn-2 {
+        padding: 12px 20px;
+        font-size: 18px;
+    }
+    .section-3-btn .hero-btn-1 {
+        margin-right: 5px;
+    }
+    .hero-btn-1:hover {
+        scale: 1.2rem;
+        background: transparent;
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all  0.2s ease-in-out;
+    }
+    .hero-btn-2:hover {
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all 0.3s ease-in-out;
+        transform: translateX(10px);
+    }
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-list {
+        margin-bottom: 40px;
+    }
+    .footer-list h5 {
+        font-size: 55px;
+    }
+    .footer-list ul li a {
+        font-size: 35px;
+    }
+}
+
+@media  only screen and (max-width: 800px){
+    .hero-section {
+        padding: 10px 1.3rem;
+    }
+    .hero-title h1 {
+        font-size: 80px;
+    }
+    .hero-title p {
+        font-size: 35px;
+    }
+    .hero-title  button {
+        padding: 18px 35px;
+    }
+    .hero-title-2 {
+        width: 100%;
+    }
+    .hero-title-2-header {
+        font-size: 35px;	
+    }
+    .hero-title-2 h3 {
+        font-size: 30px;
+        margin-top: 60px;
+        margin-bottom: 45px;
+    }
+    .hero-title-2-text {
+        font-size: 25px;
+    }
+    .sect-2-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .section-3 h3 {
+        font-size: 46px;
+    }
+    .sect-3-benefits {
+        display: flex;
+        flex-direction: column;
+        margin-top: 80px;
+    }
+    .section-3 h2 {
+        font-size: 45px;
+        margin-top: 60px;
+    }
+    .benefits-text h4 {
+        font-size: 35px;
+    }
+    .section-3-btn .hero-btn-1, .hero-btn-2 {
+        padding: 12px 20px;
+        font-size: 18px;
+    }
+    .section-3-btn .hero-btn-1 {
+        margin-right: 5px;
+    }
+    .hero-btn-1:hover {
+        scale: 1.2rem;
+        background: transparent;
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all  0.2s ease-in-out;
+    }
+    .hero-btn-2:hover {
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all 0.3s ease-in-out;
+        transform: translateX(10px);
+    }
+    footer {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-list {
+        margin-bottom: 40px;
+    }
+    .footer-list h5 {
+        font-size: 55px;
+    }
+    .footer-list ul li a {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 620px){
+    .hero-title button {
+        padding: 18px 20px;
+        font-weight: 700;
+    }
+    .hero-title p {
+        font-size: 30px;
+    }
+    .hero-title h1 {
+        font-size: 60px;
+    }
+}
+
+@media only screen and (max-width:600px){
+    .dropdown{
+        left: 2rem;
+        width: unset;
+    }
+    .hero-section {
+        width: 100%;
+        align-items: center; 
+        padding-left: 2rem;
+    }
+    .hero-title h1 {
+        font-size: 60px;
+        font-weight: 700;
+    }
+    .hero-title p {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .hero-title button {
+        font-size: 12px;
+        padding: 13px 16px;
+        font-weight: 800;
+    }
+    .hero-btn-1 {
+        margin-right: 10px;
+    }
+    .arrow {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    .brands-wrapper{
+        flex-wrap: wrap;
+    }
+    .brand {
+        margin-right: 30px;
+        margin-bottom: 25px;
+    }
+    .numbers {
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+    .numbers p {
+        font-size: 12px;
+    }
+    .section-3 h3 {
+        font-size: 30px;
+    }
+    .benefits-text h4 {
+        font-size: 30px;
+    }
+    .benefits-text div {
+        width: 92%;
+    }
+}
+
+@media only screen and (max-width: 450px){
+    .hero-section {
+        padding: 20px 1.5rem;
+    }
+    .hero-title h1 {
+        font-size: 43px;
+    }
+    .hero-title p {
+        font-size: 18px;
+    }
+    .hero-title button {
+        font-size: 12px;
+    }
+    .hero-btn-1 {
+        margin-right: 2px;
+    }
+    .arrow {
+        font-size: 12px;
+        margin-left: 13px;
+    }
+    .brands-wrapper{
+        flex-wrap: wrap;
+    }
+    .brand{
+        margin-bottom: 35px;
+    }
+    .section-1 h3 {
+        font-size: 40px;
+        margin-top: 100px;
+    }
+    .numbers {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .numbers h2 {
+        font-size: 30px;
+    }
+    .numbers p {
+        font-size: 10px;
+    }
+    .sect-2-container {
+        display: flex;
+        flex-direction: column;
+        padding-top: 5px;
+    }
+    .sect-2-container-1 {
+        margin-top: 2px;
+    }
+    .sect-2-container-2 img {
+        width: 100%;
+    }
+    .sect-3-benefits{
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .section-3 h3 {
+        font-size: 24px;
+    }
+    .sect-3-benefits-div {
+        width: 100%;
+    }
+    .benefits-text div {
+        width: 100%;
+    }
+    .benefits-text h4 {
+        font-size: 20px;
+    }
+    .section-3 h2 {
+        margin-top: 80px;
+        font-size: 25px;
+    }
+    .section-3-btn .hero-btn-1, .hero-btn-2 {
+        padding: 12px 20px;
+        font-size: 12px;
+    }
+    .section-3-btn .hero-btn-1 {
+        margin-right: 5px;
+    }
+    .hero-btn-1:hover {
+        scale: 1.2rem;
+        background: transparent;
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all  0.2s ease-in-out;
+    }
+    .hero-btn-2:hover {
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all 0.3s ease-in-out;
+        transform: translateX(10px);
+    }
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-list {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 430px){
+    .section-3 h2 {
+        font-size: 34px;
+    }
+    .section-3 h3 {
+        font-size: 23px;
+    }
+    .footer-list h5 {
+        font-size: 34px;
+    }
+    .footer-list ul li a {
+        font-size: 29px;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    .section-1 h3 {
+        font-size: 35px;
+    }
+    .section-3 h3 {
+        font-size: 22px;
+    }
+}
+
+@media only screen and (max-width: 380px){
+    .hero-section {
+        padding: 10px 1rem;
+    }
+    .hero-title h1 {
+        font-size: 38px;
+    }
+    .brands-wrapper {
+        flex-wrap: wrap;
+    }
+    .brand {
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+    .section-1 p {
+        font-size: 10px;
+    }
+    .numbers {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .numbers h2 {
+        font-size: 30px;
+    }
+    .sect-2-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .sect-2-container-2 img {
+        width: 100%;
+    }
+    .section-3 h2 {
+        margin-top: 80px;
+    }
+    .section-3 h3 {
+        font-size: 20px;
+    }
+    .sect-3-benefits{
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .sect-3-benefits-div {
+        width: 100%;
+    }
+    .benefits-text div {
+        width: 100%;
+    }
+    .benefits-text h4 {
+        font-size: 20px;
+    }
+    .section-3-btn .hero-btn-1, .hero-btn-2 {
+        padding: 12px 20px;
+        font-size: 12px;
+    }
+    .section-3-btn .hero-btn-1 {
+        margin-right: 5px;
+    }
+    .hero-btn-1:hover {
+        scale: 1.2rem;
+        background: transparent;
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all  0.2s ease-in-out;
+    }
+    .hero-btn-2:hover {
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all 0.3s ease-in-out;
+        transform: translateX(10px);
+    }
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-list {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 365px){
+    .hero-title-2-header {
+        font-size: 14px;
+    }
+    .benefits-text h4 {
+        font-size: 18px;
+    }
+    .section-3 h2 {
+        font-size: 23px;
+    }
+    .footer-list h5 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 350px){
+    .section-1 h3 {
+        font-size: 30px;
+    }
+    .numbers {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    .numbers h2 {
+        font-size: 20px;
+    }
+    .benefits-text h4 {
+        font-size: 15px;
+    }
+    .section-3 h2 {
+        font-size: 30px;
+        margin-top: 60px;
+    }
+    .section-3 h3 {
+        font-size: 30px;
+    }
+    .section-3-btn .hero-btn-1, .hero-btn-2 {
+        padding: 8px 15px;
+        font-size: 10px;
+    }
+    .section-3-btn .hero-btn-1 {
+        margin-right: 2px;
+    }
+    .hero-btn-1:hover {
+        scale: 1.2rem;
+        background: transparent;
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all  0.2s ease-in-out;
+    }
+    .hero-btn-2:hover {
+        border: 2px solid #fff;
+        color: #fff;
+        font-weight: 700;
+        transition: all 0.3s ease-in-out;
+        transform: translateX(10px);
+    }
+    .footer-list ul li a {
+        font-size: 15px;
+    }
+}
